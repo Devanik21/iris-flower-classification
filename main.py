@@ -19,7 +19,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.sidebar.image("iris4.jpg", use_column_width=True)
+st.sidebar.image("iris4.jpg", use_container_width=True)
 
 # Sidebar Navigation with emojis 🌸 using Selectbox
 st.sidebar.title("🌼 Navigation")
@@ -129,7 +129,8 @@ elif options == "💬 Feedback":
 
 
 
-st.image("iris3.jpg", use_column_width=True)
-st.image("iris2.jpg", use_column_width=True)
-st.sidebar.image("iris1.jpg",use_column_width=True)
+st.image("iris3.jpg", use_container_width=True)
+st.image("iris2.jpg", use_container_width=True)
+st.sidebar.image("iris1.jpg",use_container_width=True)
  
+
