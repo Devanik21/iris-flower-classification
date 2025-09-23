@@ -25,7 +25,7 @@ st.sidebar.image("iris4.jpg", use_container_width=True)
 st.sidebar.title("🌼 Navigation")
 
 # Define the options for the selectbox
-selectbox_options = ["🏠 Home", "📊 Visualize", "🔍 Analyze", "🤖 Predict", "📚 About", "💬 Feedback"]
+selectbox_options = ["🏠 Home", "📊 Visualize", "🔍 Analyze", "🎨 Predict", "📚 About", "💬 Feedback"]
 
 # Sidebar selectbox for navigation (scrollable)
 options = st.sidebar.selectbox(
@@ -115,8 +115,8 @@ elif options == "🔍 Analyze":
     st.markdown("<h1 style='color:#4682B4;'>🔍 Data Analysis</h1>", unsafe_allow_html=True)
     analyze_page()
 
-elif options == "🤖 Predict":
-    st.markdown("<h1 style='color:#32CD32;'>🤖 Iris Species Prediction</h1>", unsafe_allow_html=True)
+elif options == "🎨 Predict":
+    st.markdown("<h1 style='color:#32CD32;'>🎨 Iris Species Prediction</h1>", unsafe_allow_html=True)
     predict_page()
 
 elif options == "📚 About":
@@ -133,4 +133,5 @@ st.image("iris3.jpg", use_container_width=True)
 st.image("iris2.jpg", use_container_width=True)
 st.sidebar.image("iris1.jpg",use_container_width=True)
  
+
 
