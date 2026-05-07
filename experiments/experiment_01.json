@@ -1,0 +1,6 @@
+{
+  "experiment_id": "exp_01",
+  "model": "RandomForest",
+  "accuracy": 0.96,
+  "f1_score": 0.95
+}
