@@ -2,6 +2,9 @@
 
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square) ![Stars](https://img.shields.io/github/stars/Devanik21/iris-flower-classification?style=flat-square&color=yellow) ![Forks](https://img.shields.io/github/forks/Devanik21/iris-flower-classification?style=flat-square&color=blue) ![Author](https://img.shields.io/badge/Author-Devanik21-black?style=flat-square&logo=github) ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
+<img width="8736" height="4896" alt="vibrant-purple-blue-iris-flower-close-up" src="https://github.com/user-attachments/assets/cdd1f46f-51e1-4216-89db-45ebc1d2eda6" />
+
+
 > Iris Flower Classification — an intelligent, interactive ML application built for real-world prediction and analysis.
 
 ---
